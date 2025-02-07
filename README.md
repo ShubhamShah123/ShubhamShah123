@@ -4,7 +4,7 @@
 💬 Ask me about Python, Gaming, Anime or Sports.<br/>
 📫 How to reach me shubhamshah8397@gmail.com.<br/>
 
-## 🌐Socials
+# 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sshhuubbhhaamm97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamshah845) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahshubham845) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/GraySkuLL123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shah_shubham845) 
 
 # 💻Tech Stack
@@ -14,11 +14,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShah123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShah123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ShubhamShah123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-## Spotify Playing 🎧
+# Spotify Playing 🎧
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/312cagqj3kshh65llfo3iyg3scpm)
 
 ---
