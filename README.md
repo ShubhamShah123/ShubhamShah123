@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on Audio Emotion Recognition.<br/>
+🔭 I’m currently working on various pet projects.<br/>
 🌱 I’m currently learning front end development using React Native.<br/>
 💬 Ask me about Python, Gaming, Anime or Sports.<br/>
 📫 How to reach me shubhamshah8397@gmail.com.<br/>
