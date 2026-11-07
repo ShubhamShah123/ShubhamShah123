@@ -19,7 +19,7 @@
 <!-- RESUME BUTTON -->
 
 <a href="https://drive.google.com/file/d/1idaXW3_3fU8bVKikV5WLJV5ZfeuY9mQd/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄_Download_My_Resume-36BCF7?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+  <img src="https://img.shields.io/badge/📄_Download_My_Resume-E11D48?style=for-the-badge&logoColor=white" alt="Download Resume"/>
 </a>
 &nbsp;
 <a href="mailto:shahshubham845@gmail.com">
