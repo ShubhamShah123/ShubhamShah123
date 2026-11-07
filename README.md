@@ -1,27 +1,144 @@
-# 💫About Me :
-🔭 I’m currently working on various pet projects.<br/>
-🌱 I’m currently learning front end development using React Native.<br/>
-💬 Ask me about Python, Gaming, Anime or Sports.<br/>
-📫 How to reach me shubhamshah8397@gmail.com.<br/>
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<div align="center">
 
-# 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sshhuubbhhaamm97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamshah845) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shahshubham845) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/GraySkuLL123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shah_shubham845) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shubham%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descSize=18" width="100%" alt="Banner"/>
 
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ShubhamShah123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShah123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShah123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shubham+%F0%9F%91%8B;Building+pet+projects+that+I+love+%F0%9F%9A%80;Learning+Data+Analytics+%F0%9F%93%B1;Upgrading Backend Development Skills %E2%9A%99%EF%B8%8F;Python+%7C+Gaming+%7C+Anime+%7C+Sports Fanatic+%F0%9F%8E%AE" alt="Typing SVG" />
+</a>
 
-# 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ShubhamShah123&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamShah123&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ShubhamShah123?label=Followers&style=for-the-badge&logo=github&color=2c5364)
+![Stars](https://img.shields.io/github/stars/ShubhamShah123?label=Stars&style=for-the-badge&logo=github&color=2c5364)
+
+<br/>
+
+
+<!-- RESUME BUTTON -->
+
+<a href="https://drive.google.com/file/d/1idaXW3_3fU8bVKikV5WLJV5ZfeuY9mQd/view?usp=sharing">
+  <img src="https://img.shields.io/badge/📄_Download_My_Resume-36BCF7?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+</a>
+&nbsp;
+<a href="mailto:shahshubham845@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Hire_Me-2ea44f?style=for-the-badge&logoColor=white" alt="Hire Me"/>
+</a>
+ 
+
+</div>
 
 ---
-# Spotify Playing 🎧
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/312cagqj3kshh65llfo3iyg3scpm)
 
----
-```bash
->  check out my repos 👇
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+```python
+class Shubham:
+    def __init__(self):
+        self.role      = "Developer & Tech Enthusiast"
+        self.learning  = ["Data Analytics", "Backend Development"]
+        self.building  = "Various pet projects 🛠️"
+        self.loves     = ["Python", "Gaming", "Anime", "Sports"]
+        self.reach_me  = "shahshubham845@gmail.com"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something cool 🚀")
 ```
+
+</td>
+<td width="40%">
+
+🔭 Currently working on **various pet projects**<br>
+🌱 Currently learning **front-end development with React Native**<br>
+💬 Ask me about **Python, Gaming, Anime or Sports**<br>
+📫 Reach me at **shahshubham845@gmail.com**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Main Skills
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,html,css&perline=6" alt="Languages"/>
+
+Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,angular,bootstrap&perline=3" alt="Frameworks & Libraries"/>
+
+Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django&perline=3" alt="Backend & APIs"/>
+
+Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&perline=5" alt="Machine Learning"/>
+
+Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&perline=6" alt="Databases"/>
+
+DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,kafka,aws,gcp,vercel,githubactions&perline=8" alt="DevOps & Cloud"/>
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=npm,postman,notion,latex,md&perline=6" alt="Tools"/> </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShubhamShah123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShah123&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShah123&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamShah123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamShah123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ShubhamShah123)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shubhamshah845"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>
+<a href="mailto:shahshubham845@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/></a>
+
+<br/>
+
+```bash
+> check out my repos 👇
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
