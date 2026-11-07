@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shubham%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descSize=18" width="100%" alt="Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shubham+%F0%9F%91%8B;Building+pet+projects+that+I+love+%F0%9F%9A%80;Learning+Data+Analytics+%F0%9F%93%B1;Upgrading Backend Development Skills %E2%9A%99%EF%B8%8F;Python+%7C+Gaming+%7C+Anime+%7C+Sports Fanatic+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shubham+%F0%9F%91%8B;Building+pet+projects+that+I+love+%F0%9F%9A%80;Learning+Data+Analytics+%F0%9F%93%8A;Upgrading+Backend+Development+Skills+%E2%9A%99%EF%B8%8F;Python+%7C+Gaming+%7C+Anime+%7C+Sports+Fanatic+%F0%9F%8E%AE" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -81,7 +81,10 @@ Backend & APIs
 
 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&perline=5" alt="Machine Learning"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" alt="Machine Learning"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<img src="https://cdn.simpleicons.org/polars" width="48" height="48" alt="Polars"/>
 
 Databases
 
@@ -93,36 +96,7 @@ DevOps & Cloud
 
 Tools
 
-<img src="https://skillicons.dev/icons?i=npm,postman,notion,latex,md&perline=6" alt="Tools"/> </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShubhamShah123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamShah123&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamShah123&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamShah123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamShah123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ShubhamShah123)
-
-</div>
+<img src="https://skillicons.dev/icons?i=npm,postman,notion,latex,md,github,gitlab&perline=7" alt="Tools"/> </div>
 
 ---
 
